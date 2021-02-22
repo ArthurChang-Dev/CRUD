@@ -3,12 +3,24 @@
   - [ToDo List App](https://ibaslogic.com/react-tutorial-for-beginners/)
   - [Done] Run the basic app
   - [Todo] Front-end UI
+    + [Done]UI design
+      - [Done]Simple UI 
+    + Choose suitable UI library
+      - Using semantic-ui-react library
+      - [Done]Installed UI library and css style
+      - [Done]Have configed the loader to imported first semantic component
   - [Todo] Backend logic
     + DB
     + RW operations
   - [Todo] Integration Front-end & Back-end
   - [Todo] Message format 
 
+  - Question
+    + when using react?
+    ```jsx
+    const app = () => {} //not working
+    const app = () => () //works fine
+    ```
 ## CRUD system using python
 
 ## Integrated with Kafka
