@@ -9,6 +9,11 @@
       - Using semantic-ui-react library
       - [Done]Installed UI library and css style
       - [Done]Have configed the loader to imported first semantic component
+    + Front-end logic
+      - Router?
+      - [Done] Display to do list
+      - [Done] Dynamically add new to do item and display it.
+      - [?] How to add a delete line if checkbox ticked?
   - [Todo] Backend logic
     + DB
     + RW operations
