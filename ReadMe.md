@@ -26,13 +26,18 @@
     const app = () => {} //not working
     const app = () => () //works fine
     ```
+
+## dotnet backend
+  - [Creating Web API With ASP.NET Core Using Visual Studio Code](https://www.c-sharpcorner.com/article/creating-web-api-with-asp-net-core-using-visual-studio-code/)
 ## CRUD system using python
 
 ## Integrated with Kafka
 
 ## Login authentication
 
-## Log system
+## Ngnix
+
+## Logging system
 
 ## Mobile app
 
